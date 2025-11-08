@@ -35,6 +35,4 @@ Instead of focusing on strict tracking, Momentum emphasizes **calm awareness** â
 **Database:** MongoDB Atlas  
 **DevOps:** Docker, GitHub Actions, AWS EC2 + Nginx
 
----
 
-## ðŸ§± Folder Structure
