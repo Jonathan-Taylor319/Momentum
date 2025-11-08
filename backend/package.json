@@ -1,0 +1,13 @@
+{
+  "name": "momentum-backend",
+  "version": "1.0.0",
+  "description": "Momentum backend API for weekly balance tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonathan Taylor",
+  "license": "ISC",
+  "type": "commonjs"
+}
